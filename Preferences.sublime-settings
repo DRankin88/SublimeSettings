@@ -1,0 +1,29 @@
+{
+    "auto_match_enabled": false,
+	"always_show_minimap_viewport": true,
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_delay": 0,
+	"auto_complete_selector": "source - comment, meta.tag - punctuation.definition.tag.begin, text ",
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Dark Neon Color Scheme/DarkNeon.tmTheme",
+	"detect_indentation": false,
+	"fade_fold_buttons": false,
+	"font_face": "Liberation Mono",
+	"font_size": 13,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"spell_check": true,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true,
+	"wrap_width": 79
+}
