@@ -1,8 +1,10 @@
 {
     "auto_match_enabled": false,
+    "save_on_focus_lost": true,
 	"always_show_minimap_viewport": true,
 	"auto_complete_commit_on_tab": true,
 	"auto_complete_delay": 0,
+    "detect_indentation": false,
 	"auto_complete_selector": "source - comment, meta.tag - punctuation.definition.tag.begin, text ",
 	"bold_folder_labels": true,
 	"caret_style": "phase",
